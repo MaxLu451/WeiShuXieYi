@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+.vendor/
+.build-deps/
+build-work/
+release-build*/

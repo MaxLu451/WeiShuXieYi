@@ -1,0 +1,10 @@
+{
+  "season": "卫戍协议·规程",
+  "status": "provisional_partially_structured",
+  "source": "https://prts.wiki/w/卫戍协议·规程/PRTS盟约记录",
+  "counts": {
+    "records": 177,
+    "assets": 1811
+  },
+  "note": "已初步提取干员、盟约、策略和装备及关联图片；所有数据待人工核对。详情见 README.md。"
+}

@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "available",
+    "file": "000.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "001.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "002.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "available",
+    "file": "003.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "available",
+    "file": "004.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "005.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "006.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "banned",
+    "file": "007.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "banned",
+    "file": "008.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "banned",
+    "file": "009.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "available",
+    "file": "010.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "available",
+    "file": "011.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "available",
+    "file": "012.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "available",
+    "file": "013.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "available",
+    "file": "014.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "015.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "available",
+    "file": "016.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "017.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "018.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "019.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "020.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "banned",
+    "file": "021.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "banned",
+    "file": "022.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "banned",
+    "file": "023.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "banned",
+    "file": "024.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "banned",
+    "file": "025.png"
+  },
+  {
+    "name": "频次",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "026.png"
+  },
+  {
+    "name": "折射",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "027.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "028.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "available",
+    "file": "029.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "available",
+    "file": "030.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "available",
+    "file": "031.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "available",
+    "file": "032.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "033.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "034.png"
+  },
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "banned",
+    "file": "035.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "036.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "037.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "available",
+    "file": "038.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "available",
+    "file": "039.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "available",
+    "file": "040.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "041.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "available",
+    "file": "042.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "available",
+    "file": "043.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "044.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "045.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "046.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "047.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "available",
+    "file": "048.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "banned",
+    "file": "049.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "banned",
+    "file": "050.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "banned",
+    "file": "051.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "banned",
+    "file": "052.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "banned",
+    "file": "053.png"
+  },
+  {
+    "name": "持续",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "054.png"
+  },
+  {
+    "name": "频次",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "055.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "available",
+    "file": "056.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "available",
+    "file": "057.png"
+  },
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "available",
+    "file": "058.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "059.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "available",
+    "file": "060.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "banned",
+    "file": "061.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "062.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "banned",
+    "file": "063.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "064.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "065.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "available",
+    "file": "066.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "available",
+    "file": "067.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "available",
+    "file": "068.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "069.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "available",
+    "file": "070.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "071.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "072.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "073.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "074.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "available",
+    "file": "075.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "available",
+    "file": "076.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "banned",
+    "file": "077.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "banned",
+    "file": "078.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "banned",
+    "file": "079.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "banned",
+    "file": "080.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "banned",
+    "file": "081.png"
+  },
+  {
+    "name": "元素",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "082.png"
+  },
+  {
+    "name": "复苏",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "083.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "084.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "available",
+    "file": "085.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "086.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "available",
+    "file": "087.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "available",
+    "file": "088.png"
+  },
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "banned",
+    "file": "089.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "banned",
+    "file": "090.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "banned",
+    "file": "091.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "banned",
+    "file": "092.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "093.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "available",
+    "file": "094.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "available",
+    "file": "095.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "available",
+    "file": "096.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "097.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "available",
+    "file": "098.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "099.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "100.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "101.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "102.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "available",
+    "file": "103.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "available",
+    "file": "104.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "banned",
+    "file": "105.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "banned",
+    "file": "106.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "banned",
+    "file": "107.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "banned",
+    "file": "108.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "banned",
+    "file": "109.png"
+  },
+  {
+    "name": "隐匿",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "110.png"
+  },
+  {
+    "name": "复苏",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "111.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "112.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "available",
+    "file": "113.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "available",
+    "file": "114.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "available",
+    "file": "115.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "available",
+    "file": "116.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "banned",
+    "file": "117.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "118.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "119.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "120.png"
+  },
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "banned",
+    "file": "121.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "available",
+    "file": "122.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "available",
+    "file": "123.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "available",
+    "file": "124.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "available",
+    "file": "125.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "126.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "available",
+    "file": "127.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "128.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "129.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "130.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "131.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "available",
+    "file": "132.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "banned",
+    "file": "133.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "banned",
+    "file": "134.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "banned",
+    "file": "135.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "banned",
+    "file": "136.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "banned",
+    "file": "137.png"
+  },
+  {
+    "name": "持续",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "138.png"
+  },
+  {
+    "name": "隐匿",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "139.png"
+  },
+  {
+    "name": "炎",
+    "kind": "core",
+    "state": "available",
+    "file": "140.png"
+  },
+  {
+    "name": "叙拉古",
+    "kind": "core",
+    "state": "available",
+    "file": "141.png"
+  },
+  {
+    "name": "乌萨斯",
+    "kind": "core",
+    "state": "available",
+    "file": "142.png"
+  },
+  {
+    "name": "卡西米尔",
+    "kind": "core",
+    "state": "available",
+    "file": "143.png"
+  },
+  {
+    "name": "伊比利亚",
+    "kind": "core",
+    "state": "available",
+    "file": "144.png"
+  },
+  {
+    "name": "阿戈尔",
+    "kind": "core",
+    "state": "banned",
+    "file": "145.png"
+  },
+  {
+    "name": "莱塔尼亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "146.png"
+  },
+  {
+    "name": "谢拉格",
+    "kind": "core",
+    "state": "banned",
+    "file": "147.png"
+  },
+  {
+    "name": "维多利亚",
+    "kind": "core",
+    "state": "banned",
+    "file": "148.png"
+  },
+  {
+    "name": "萨尔贡",
+    "kind": "core",
+    "state": "banned",
+    "file": "149.png"
+  },
+  {
+    "name": "灵巧",
+    "kind": "small",
+    "state": "available",
+    "file": "150.png"
+  },
+  {
+    "name": "助力",
+    "kind": "small",
+    "state": "available",
+    "file": "151.png"
+  },
+  {
+    "name": "远见",
+    "kind": "small",
+    "state": "available",
+    "file": "152.png"
+  },
+  {
+    "name": "奇迹",
+    "kind": "small",
+    "state": "available",
+    "file": "153.png"
+  },
+  {
+    "name": "投资人",
+    "kind": "small",
+    "state": "available",
+    "file": "154.png"
+  },
+  {
+    "name": "不屈",
+    "kind": "small",
+    "state": "available",
+    "file": "155.png"
+  },
+  {
+    "name": "调和",
+    "kind": "small",
+    "state": "available",
+    "file": "156.png"
+  },
+  {
+    "name": "协防干员",
+    "kind": "small",
+    "state": "available",
+    "file": "157.png"
+  },
+  {
+    "name": "独行",
+    "kind": "small",
+    "state": "available",
+    "file": "158.png"
+  },
+  {
+    "name": "绝技",
+    "kind": "small",
+    "state": "available",
+    "file": "159.png"
+  },
+  {
+    "name": "聚合",
+    "kind": "small",
+    "state": "available",
+    "file": "160.png"
+  },
+  {
+    "name": "精准",
+    "kind": "small",
+    "state": "banned",
+    "file": "161.png"
+  },
+  {
+    "name": "迅捷",
+    "kind": "small",
+    "state": "banned",
+    "file": "162.png"
+  },
+  {
+    "name": "坚守",
+    "kind": "small",
+    "state": "banned",
+    "file": "163.png"
+  },
+  {
+    "name": "突袭",
+    "kind": "small",
+    "state": "banned",
+    "file": "164.png"
+  },
+  {
+    "name": "奥术",
+    "kind": "small",
+    "state": "banned",
+    "file": "165.png"
+  },
+  {
+    "name": "复苏",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "166.png"
+  },
+  {
+    "name": "隐匿",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "167.png"
+  },
+  {
+    "name": "飞行",
+    "kind": "enemy",
+    "state": "enemy",
+    "file": "flying.png"
+  }
+]
